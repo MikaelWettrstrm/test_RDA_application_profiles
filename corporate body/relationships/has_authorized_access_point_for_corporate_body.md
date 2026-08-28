@@ -1,0 +1,1 @@
+## has authorized access point for corporate body

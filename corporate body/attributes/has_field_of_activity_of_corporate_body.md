@@ -1,0 +1,1 @@
+## has field of activity of corporate body
