@@ -1,1 +1,0 @@
-## Has note on person

@@ -1,0 +1,16 @@
+﻿Entitet;Range;RDA element eng;IRI;RDA element sv;Libris/KBV label;KBV IRI;Kardinalitet RDA-KBV;Obligatoriskt;Repeterbart;Kommentar
+Person;Nomen;authorized access point for person;http://rdaregistry.info/Elements/a/P50411;Auktoriserad sökingång;;;;;;Borde automatgenereras. Nu måste man repetera: födelsetid och/eller dödstid, fullständigare namnform, titel eller övrig beteckning
+Person;Nomen;preferred name of person;http://rdaregistry.info/Elements/a/P50117;Föredraget namn;Efternamn;https://id.kb.se/vocab/familyName;1:2;JA;NEJ;Hur ange helgon?
+Person;Nomen;preferred name of person;http://rdaregistry.info/Elements/a/P50117;Föredraget namn;Förnamn;https://id.kb.se/vocab/givenName;1:2;JA;NEJ;Hur ange helgon?
+Person;Timespan;period of activity of person;http://rdaregistry.info/Elements/a/P50098;Verksamhetstid;Verksamhetens starttid;https://id.kb.se/vocab/activityStartDate;1:2;;;
+Person;Timespan;period of activity of person;http://rdaregistry.info/Elements/a/P50098;Verksamhetstid;Verksamhetens sluttid;https://id.kb.se/vocab/activityEndDate;1:2;;;
+Person;Timespan;date of birth;http://rdaregistry.info/Elements/a/P50121;Födelsetid;Födelsedatum;https://id.kb.se/vocab/birthDate;1:1;Om nödvändigt;NEJ;
+Person;Timespan;date of death;http://rdaregistry.info/Elements/a/P50120;Dödstid;Dödsdatum;https://id.kb.se/vocab/deathDate;1:1;Om nödvändigt;NEJ;
+Person;Nomen;fuller form of name;http://rdaregistry.info/Elements/a/P50115;Fullständig namnform;Fullständigare namnform - Person;https://id.kb.se/vocab/fullerFormOfName;1:1;Om nödvändigt;JA;
+Person;;profession or occupation;http://rdaregistry.info/Elements/a/P50104;Yrke eller sysselsättning;Har yrke eller sysselsättning;https://id.kb.se/vocab/hasOccupation;1:1;Om nödvändigt;JA;
+Person;Nomen;variant name of person;http://rdaregistry.info/Elements/a/P50103;Variantnamn;Variant: Efternamn, Förnamn m.m.;;2:1;Om nödvändigt;JA;
+Person;Nomen;variant access point of person;http://rdaregistry.info/Elements/a/P50412;Variantnamn;Variant: Efternamn, Förnamn m.m.;;2:1;;;
+Person;Nomen;identifier for person;http://rdaregistry.info/Elements/a/P50094;Identifikator ;Kontrollnummer (Adminmetadata), Identifikator;https://id.kb.se/vocab/identifiedBy;;JA;JA;
+Person;;note on person;http://rdaregistry.info/Elements/a/P50395;;Beskrivning;https://id.kb.se/vocab/description;;;;
+Person;;term of rank or honour or office;http://rdaregistry.info/Elements/a/P50110;Kunglig, religiös eller yrkestitel;Andra attribut för person- och organisationsnamn / Andra attribut för person- och organisationsnamn / Titel/officiell rang för kunglig, adlig eller religiös person;;;Om nödvändigt;NEJ;I vissa fall obligatoriskt?
+Person;;related entity of person;http://rdaregistry.info/Elements/a/P50482;Relaterad entitet;Se även;https://id.kb.se/vocab/seeAlso;;Om nödvändigt;JA;

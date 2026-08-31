@@ -1,1 +1,0 @@
-## term of rank or honour or office
