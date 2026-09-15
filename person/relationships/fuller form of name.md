@@ -1,4 +1,4 @@
-# Fullständigare namnform
+# [utgår] Fullständigare namnform
 
 <!-- METADATA START -->
 
@@ -7,9 +7,9 @@
 <tr><td><strong>Range</strong></td><td>Nomen</td></tr>
 <tr><td><strong>Definition</strong></td><td></td></tr>
 <tr><td><strong>RDA</strong></td><td>fuller form of name</td></tr>
-<tr><td><strong>IRI</strong></td><td>http://rdaregistry.info/Elements/a/P50115http://rdaregistry.info/Elements/a/P50115</a></td></tr>
+<tr><td><strong>IRI</strong></td><td>http://rdaregistry.info/Elements/a/P50115</a></td></tr>
 <tr><td><strong>KBV</strong></td><td>fullerFormOfName</td></tr>
-<tr><td><strong>KBV IRI</strong></td><td>https://id.kb.se/vocab/fullerFormOfNamehttps://id.kb.se/vocab/fullerFormOfName</a></td></tr>
+<tr><td><strong>KBV IRI</strong></td><td>https://id.kb.se/vocab/fullerFormOfName</a></td></tr>
 <tr><td><strong>Kardinalitet RDA-KBV</strong></td><td>1:1</td></tr>
 <tr><td><strong>Obligatoriskt</strong></td><td>Om nödvändigt</td></tr>
 <tr><td><strong>Repeterbart</strong></td><td>Ja</td></tr>
