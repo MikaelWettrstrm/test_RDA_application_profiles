@@ -1,0 +1,20 @@
+﻿Entitet;Range;Libris/KBV benämning;KBV IRI;Definition;Match;RDA element eng;RDA IRI;RDA element sv;Kardinalitet RDA-KBV;Obligatoriskt;Repeterbart;Kommentar;Instruktion
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Person;Nomen;Namn;https://id.kb.se/vocab/name;;Match;name of person;http://rdaregistry.info/Elements/a/P50111;Namn;1-1;;;Namn i rak följd i KBV? Och namn som inte går att invertera. Kan användas på alla agenter i KBV, men RDA har name of corporate body etc.;
+Person;Nomen;;;;;preferred name of person;http://rdaregistry.info/Elements/a/P50117;Föredraget namn;1-0;;;;
+Person;Nomen;;;;;authorized access point for person;http://rdaregistry.info/Elements/a/P50411;Auktoriserad sökingång;1-0;;;Borde automatgenereras. Nu måste man repetera: födelsetid och/eller dödstid, fullständigare namnform, titel eller övrig beteckning;
+Person;Nomen;Efternamn;https://id.kb.se/vocab/familyName;;Close;surname;http://rdaregistry.info/Elements/a/P50291;Efternamn;1-1;JA;NEJ;Hur ange helgon?;
+Person;Nomen;Förnamn;https://id.kb.se/vocab/givenName;;Close;given name;http://rdaregistry.info/Elements/a/P50292;Förnamn;1-1;JA;NEJ;Hur ange helgon?;
+Person;Timespan;Verksamhetens starttid;https://id.kb.se/vocab/activityStartDate;;Close;period of activity of person;http://rdaregistry.info/Elements/a/P50098;Verksamhetstid;;;;Förslag: Slå ihop Verksamhetens starttid och Verksamhetens sluttid till egenskapen Verksamhetstid där en period eller ett tidsintervall kan anges om man inte känner till exakt födelse- och/eller dödsår​;
+Person;Timespan;Verksamhetens sluttid;https://id.kb.se/vocab/activityEndDate;;Close;period of activity of person;http://rdaregistry.info/Elements/a/P50098;Verksamhetstid;;;;;
+Person;Timespan;Födelsedatum;https://id.kb.se/vocab/birthDate;;Match;date of birth;http://rdaregistry.info/Elements/a/P50121;Födelsedatum;1-1;Om nödvändigt;NEJ;;
+Person;Timespan;Dödsdatum;https://id.kb.se/vocab/deathDate;;Match;date of death;http://rdaregistry.info/Elements/a/P50120;Dödsdatum;1-1;Om nödvändigt;NEJ;;
+Person;Nomen;Fullständigare namnform - Person;https://id.kb.se/vocab/fullerFormOfName;;Match;fuller form of name;http://rdaregistry.info/Elements/a/P50115;Fullständig namnform;1-1;Om nödvändigt;JA;;
+Person;;Har yrke eller sysselsättning;https://id.kb.se/vocab/hasOccupation;;Match;profession or occupation;http://rdaregistry.info/Elements/a/P50104;Yrke eller sysselsättning;1-1;Om nödvändigt;JA;;
+Person;Nomen;Variant: Efternamn, Förnamn m.m.;;;Close;variant name of person;http://rdaregistry.info/Elements/a/P50103;Variantnamn;;Om nödvändigt;JA;;
+Person;Nomen;Variant: Efternamn, Förnamn m.m.;;;Close;variant access point of person;http://rdaregistry.info/Elements/a/P50412;Variantnamn;;;;;
+Person;Nomen;Kontrollnummer (Adminmetadata), Identifikator;https://id.kb.se/vocab/identifiedBy;;Close;identifier for person;http://rdaregistry.info/Elements/a/P50094;Identifikator ;;JA;JA;;
+Person;;Beskrivning;https://id.kb.se/vocab/description;;Close;note on person;http://rdaregistry.info/Elements/a/P50395;Beskrivning;1-1;;;Ska KBV-termen Beskrivning användas?;
+Person;;Andra attribut för person- och organisationsnamn / Andra attribut för person- och organisationsnamn / Titel/officiell rang för kunglig, adlig eller religiös person;;;;term of rank or honour or office;http://rdaregistry.info/Elements/a/P50110;Kunglig, religiös eller yrkestitel;;Om nödvändigt;NEJ;I vissa fall obligatoriskt?;
+Person;;Se även;https://id.kb.se/vocab/seeAlso;;Close;related entity of person;http://rdaregistry.info/Elements/a/P50482;Relaterad entitet;;Om nödvändigt;JA;;
