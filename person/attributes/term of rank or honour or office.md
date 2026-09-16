@@ -13,6 +13,7 @@
 <tr><td><strong>Kardinalitet RDA-KBV</strong></td><td></td></tr>
 <tr><td><strong>Obligatoriskt</strong></td><td>Om nödvändigt</td></tr>
 <tr><td><strong>Repeterbart</strong></td><td>Nej</td></tr>
+<tr><td><strong>VES</strong></td><td></td></tr>
 <tr><td><strong>Kommentar</strong></td><td>I vissa fall obligatoriskt?    I KBV måste informationen repeteras i egenskaperna Titel eller övrig beteckning [fritext] och Andra attribut för person- och organisationsnamn [länkas] eller Andra attribut för person- och organisationsnamn / Annan benämning [fritext].​
 Har att göra med MARC-export och auktoriserad sökingång (X00 #c och 368 #c och 368 #d)​
 I RDA betraktas inte andar, fiktiva gestalter, djur m.m. som personer.​

@@ -3,7 +3,7 @@
 <!-- METADATA START -->
 
 <table>
-<tr><td><strong>Definition</strong></td><td>A collective agent who is composed of persons who are related by birth, marriage, adoption, civil union, or similar legal status, or who otherwise present themselves as a family.</td></tr>
+<tr><td><strong>Definition</strong></td><td>Med släkt, eller familj, avses två eller flera personer som är relaterade till varandra genom födelse, giftermål, adoption, partnerskap eller liknade rättslig status, eller som på annat sätt presenterar sig som en släkt eller familj.</td></tr>
 <tr><td><strong>Scope</strong></td><td>Termen inkluderar...</td></tr>
 <tr><td><strong>RDA IRI</strong></td><td>https://www.rdaregistry.info/Elements/c/?language=en#C10008</a></td></tr>
 <tr><td><strong>KBV IRI</strong></td><td>https://id.kb.se/vocab/Family</td></tr>
