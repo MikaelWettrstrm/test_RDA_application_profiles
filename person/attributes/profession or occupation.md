@@ -6,7 +6,7 @@
 <tr><td><strong>Domain</strong></td><td>Person</td></tr>
 <tr><td><strong>Range</strong></td><td></td></tr>
 <tr><td><strong>Definition</strong></td><td></td></tr>
-<tr><td><strong>VES</strong></td>Svenska ämnesord<td></td></tr>
+<tr><td><strong>VES</strong></td><td>Svenska ämnesord</td></tr>
 <tr><td><strong>RDA</strong></td><td>profession or occupation</td></tr>
 <tr><td><strong>RDA IRI</strong></td><td>http://rdaregistry.info/Elements/a/P50104</a></td></tr>
 <tr><td><strong>KBV</strong></td><td>hasOccupation</td></tr>
