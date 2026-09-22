@@ -4,7 +4,7 @@
 
 <table>
 <tr><td><strong>Domain</strong></td><td>Person</td></tr>
-<tr><td><strong>Range</strong></td><td></td></tr>
+<tr><td><strong>Range</strong></td><td>VES</td></tr>
 <tr><td><strong>Definition</strong></td><td></td></tr>
 <tr><td><strong>VES</strong></td><td>Svenska ämnesord</td></tr>
 <tr><td><strong>RDA</strong></td><td>profession or occupation</td></tr>
@@ -17,7 +17,7 @@
 <tr><td><strong>Kommentar</strong></td><td> I KBV måste informationen repeteras i egenskaperna Titel eller övrig beteckning och Har yrke eller sysselsättning.​
 Har att göra med MARC-export och auktoriserad sökingång (X00 #c och 374 #a)​
 Förslag: ​Bara en egenskap.​
-Byt namn till Yrke eller sysselsättning.​
+Byt namn till Yrke eller sysselsättning (från har yrke...).​
 Vi länkar till ämnesord - det behövs en altlabel i singular för Sök-vy.​</td></tr>
 </table>
 
