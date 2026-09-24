@@ -3,11 +3,11 @@
 <!-- METADATA START -->
 
 <table>
-<tr><td><strong>Domain</strong></td><td>Person</td></tr>
+<tr><td><strong>Domain</strong></td><td>Family</td></tr>
 <tr><td><strong>Range</strong></td><td>Nomen</td></tr>
-<tr><td><strong>Definition</strong></td><td>Förslag mw: Namn som inte är en persons föredragna namnform</td></tr>
-<tr><td><strong>RDA</strong></td><td>variant name of person</td></tr>
-<tr><td><strong>RDA IRI</strong></td><td>http://rdaregistry.info/Elements/a/P50103</a></td></tr>
+<tr><td><strong>Definition</strong></td><td>Förslag mw: Namn som inte är en släkts eller familjs föredragna namnform</td></tr>
+<tr><td><strong>RDA</strong></td><td>variant name of family</td></tr>
+<tr><td><strong>RDA IRI</strong></td><td>http://rdaregistry.info/Elements/a/P50054</a></td></tr>
 <tr><td><strong>KBV</strong></td><td>variant</td></tr>
 <tr><td><strong>KBV IRI</strong></td><td>https://id.kb.se/vocab/hasVariant</td></tr>
 <tr><td><strong>Kardinalitet RDA-KBV</strong></td><td>n:1</td></tr>
