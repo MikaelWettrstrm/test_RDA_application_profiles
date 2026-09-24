@@ -14,7 +14,7 @@
 <tr><td><strong>Kardinalitet RDA-KBV</strong></td><td>1:1</td></tr>
 <tr><td><strong>Obligatoriskt</strong></td><td>Nej</td></tr>
 <tr><td><strong>Repeterbart</strong></td><td>Ja</td></tr>
-<tr><td><strong>Kommentar</strong></td><td>Använd inte. Ange i Anmärkning om personen. I Libris heter det "Beskrivning"... Hur ska vi tänka kring egenskaper som har använts tidigare och finns i KBV, men som inte ska användas framåt? ​</td></tr>
+<tr><td><strong>Kommentar</strong></td><td>Använd inte. Ange i Anmärkning om personen. I Libris heter det "Beskrivning"... Hur ska vi tänka kring egenskaper som har använts tidigare och finns i KBV, men som inte ska användas framåt? Sparql: https://api.triplydb.com/s/pdClsAUQK ​</td></tr>
 </table>
 
 <!-- METADATA END -->
