@@ -13,7 +13,7 @@
 <tr><td><strong>Kardinalitet RDA-KBV</strong></td><td>1:1</td></tr>
 <tr><td><strong>Obligatoriskt</strong></td><td>Om nödvändigt</td></tr>
 <tr><td><strong>Repeterbart</strong></td><td>Ja</td></tr>
-<tr><td><strong>Kommentar</strong></td><td>Förslag: Utgår, använd Variantnamn. Om kvar, ändra label på svenska till Fullständig namnform. Om den utgår, vilka städningar behövs https://api.triplydb.com/s/yVle3Rq_G FN anges för närvarande på två ställen (Fullständigare namnform och Fullständigare namnform-Personnamn) vilket har med Marc 21 export att göra. Förslag 2: Ha kvar egenskapen, men ange bara som Fullständigare namnform - Personnamn, som döps om till Fullständig namnform</td></tr>
+<tr><td><strong>Kommentar</strong></td><td>Förslag: Utgår, använd Variantnamn. Om kvar, ändra label på svenska till Fullständig namnform. Om den utgår, vilka städningar behövs https://api.triplydb.com/s/yVle3Rq_G ; också fullerForm i hasVariant: https://api.triplydb.com/s/v22Uo5lpN . FullerFormOfName anges för närvarande på två ställen (Fullständigare namnform och Fullständigare namnform-Personnamn https://id.kb.se/marc/fullerFormOfPersonalName , men den egenskapen varkar inte vara använd: https://api.triplydb.com/s/xQm27wvN7 ) vilket har med Marc 21 export att göra. Förslag 2: Ha kvar egenskapen, men ange bara som Fullständigare namnform - Personnamn, som döps om till Fullständig namnform</td></tr>
 </table>
 
 <!-- METADATA END -->
